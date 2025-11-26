@@ -1,0 +1,3 @@
+# Treraform Amazon S3 #
+
+Amazon S3 (Simple Storage Service) is AWS’s highly scalable, durable object-storage solution used to store and retrieve any amount of data from anywhere on the internet. S3 is designed for durability, making it ideal for static websites, backups, datasets, application assets, logs, and more. In this project, we’ll walk through how to create and configure an S3 bucket, set permissions, enable versioning, and understand how S3 fits into real AWS architectures. Everything will be built using Terraform, allowing you to deploy, update, or destroy your S3 resources using clean, repeatable Infrastructure as Code.
