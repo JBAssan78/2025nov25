@@ -1,0 +1,4 @@
+resource "vpc" "name" {
+  
+}
+    
